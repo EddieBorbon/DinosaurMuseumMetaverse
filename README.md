@@ -76,7 +76,6 @@ The **Dinosaur Museum Metaverse** aims to provide a unique, immersive educationa
 ## 🛠️ Development Team
 
 **Developer**: Eddie Jonathan García Borbón  
-**Email**: your-email@example.com
 
 ---
 
