@@ -1,0 +1,8 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dinosaurmuseum_default_0
+      Hash: a03da1216edbe98bffa818c4de913c4d
+      CRC: 3308020280
+      Dependencies: {}
